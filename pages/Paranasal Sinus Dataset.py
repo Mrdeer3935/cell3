@@ -32,7 +32,7 @@ with col2:
         option = st.selectbox(
             '',
             ('phs002333'
-             ))
+             ,))
 
         hc.info_card(title='Some heading GOOD', content='All good!', sentiment='good', bar_value=100,key=2)
 
@@ -41,7 +41,7 @@ with col2:
         option = st.selectbox(
             '',
             ('HRA000772'
-             ))
+             ,))
 
         hc.info_card(title='Some heading GOOD', content='All good!', sentiment='good', bar_value=100,key=3)
 
