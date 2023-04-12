@@ -1,0 +1,32 @@
+Id,Year,Title,Platfrom,Tissue,Method,Enrichment Cell Types,Cell Amount
+GSE179269,2021,Inflammatory molecular endotypes of nasal polyps derived from White and Japanese populations,GPL24676,Paranasal Sinus,Nasal Brushing,unbiased,40618
+phs002333,2021,Human airway mast cells proliferate and acquire distinct inflammation-driven phenotypes during type 2 inflammation,Seq-Well,Paranasal Sinus,Nasal Biopsy,MC,8228
+GSE196169,2022,Comprehensive Analysis of Nasal Polyps Reveals a More Pronounced Type 2 Transcriptomic Profile of Epithelial Cells and Mast Cells in Aspirin-Exacerbated Respiratory Disease,GPL21290,Paranasal Sinus,Nasal Biopsy,epithelial、immune,42868
+GSE202100,2022,"IL-13-programmed airway tuft cells produce PGE2, which promotes CFTR-dependent mucociliary function",GPL24676,Paranasal Sinus,Nasal Brushing,epithelial,116358
+HRA000772,2022,"Single-cell profiling identifies 
+mechanisms of inflammatory heterogeneity 
+in chronic rhinosinusitis",GPL24676,Paranasal Sinus,Nasal Biopsy,unbiased,122664
+,2021,Impaired local intrinsic immunity to SARS-CoV-2 infection in severe COVID-19,Seq-Well,Nasopharynx,Nasal Brushing,epithelial、immune,32588
+GSE150430,2020,Single-cell transcriptomics reveals regulators underlying immune cell diversity and immune subtypes associated with prognosis in nasopharyngeal carcinoma,GPL20795,Nasopharynx,Nasal Biopsy,epithelial、immune,48584
+HRA000087,2020,"Single-cell transcriptomic analysis defines the interplay between tumor cells,viral infection, and the microenvironment in nasopharyngeal carcinoma",GPL20795,Nasopharynx,Nasal Biopsy,immune、stromal,104000
+EGAD00001005714,2020,A single-cell atlas of the human healthy airways,UCAGenomiX,Nasal Cavity,"Nasal Biopsy and
+Nasal Brushing",unbiased,18191
+EGAD00001008560,2022,Single-Cell RNA-Seq Analysis of Olfactory Mucosal Cells of Alzheimer’s Disease Patients,GPL24676,Nasal Cavity,Nasal Biopsy,stromal,32283
+GSE184117,2022,Aging-related olfactory loss is associated with olfactory stem cell transcriptional alterations in humans,GPL18573,Nasal Cavity,Nasal Biopsy,unbiased,36091
+GSE182475,2022,"Human Nasal Epithelial Cells Sustain Persistent SARS-CoV-2 Infection In Vitro, despite Eliciting a Prolonged Antiviral Response",GPL20301,Nasal Cavity,Nasal Biopsy,epithelial,13986
+GSE139522,2020,"On the in vivo origin of human 
+nasal mesenchymal stem cell cultures",GPL18573,Nasal Cavity,Nasal Biopsy,epithelial,111188
+GSE121600,2019,"Novel dynamics of human mucociliary 
+differentiation revealed by single-cell RNA sequencing of nasal epithelial cultures",GPL18573,Nasal Cavity,Nasal Brushing,epithelial,9826
+GSE191061,2022,"Cell function and identity revealed by 
+comparative scRNA-seq analysis in human nasal, bronchial and epididymis epithelia",GPL24676,Nasal Cavity,Nasal Brushing,epithelial,3000
+GSE155113,2021,"Nasal ciliated cellsare primary targets 
+for SARS-CoV-2 replication in the early stage of COVID-19",GPL20795,Nasal Cavity,Nasal Biopsy,epithelial,3415
+GSE171488,2021,"Nasal ciliated cellsare primary targets
+ for SARS-CoV-2 replication in the early stage of COVID-20",GPL20795,Nasal Cavity,Nasal Brushing,epithelial,63593
+GSE164547,2021,"Nasal ciliated cellsare primary targets 
+for SARS-CoV-2 replication in the early stage of COVID-21",GPL20795,Nasal Cavity,Nasal Brushing,epithelial,63593
+GSE162864,2021,Immune cell residency in the nasal mucosa may partially explain respiratory disease severity across the age range,GPL24676,Nasal Cavity,Nasal Brushing,epithelial、immune,26014
+GSE103518,2018,CDC20B is required for deuterosome-mediated centriole production in multiciliated cells,GPL18573,Nasal Cavity,Nasal Biopsy,epithelial,1663
+EGAD00001008159,2021,"Delayed induction of type I and III 
+interferons mediates nasal epithelial cell permissiveness to SARS-CoV-2",GPL24676,Nasal Cavity,Nasal Brushing,epithelial,28346
