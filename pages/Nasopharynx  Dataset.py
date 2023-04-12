@@ -29,17 +29,15 @@ with col2:
         st.markdown('##### Data list:')
         option = st.selectbox(
             '',
-            ('GSE150430'
-             ))
+            ("GSE150430",))
 
         hc.info_card(title='Some heading GOOD', content='All good!', sentiment='good', bar_value=100,key=2)
 
-    with GEO:
+    with CNCB:
         st.markdown('##### Data list:')
         option = st.selectbox(
             '',
-            ('HRA000087'
-             ))
+            ('HRA000087',))
 
         hc.info_card(title='Some heading GOOD', content='All good!', sentiment='good', bar_value=100,key=3)
 
