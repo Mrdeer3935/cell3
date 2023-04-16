@@ -11,7 +11,7 @@ col1,col2,col3 = st.columns((1,3,1))
 with col2:
 
     st.header("Appendix B: Nasopharynx  Dataset")
-    SCP, GEO, CNCB = st.tabs(['Single Cell Portal', 'GEO','CNCB'])
+    SCP, GEO, CNCB = st.tabs(['SCP', 'GEO','CNCB'])
 
     with SCP:
         st.markdown('##### Data list:')
